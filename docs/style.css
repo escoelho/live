@@ -1075,7 +1075,7 @@ a {
   text-align: center;
   margin-bottom: 12px; }
   .content-loop .thumbnail-link img {
-   /* width: 100%; */
+   width: 100%;
 }
 .content-loop .entry-header .entry-category {
   line-height: 1;
@@ -2595,7 +2595,7 @@ a:hover,
 .page-content ul li:before,
 .entry-content ul li:before,
 .content-loop .entry-summary span a:hover {
-  color: #0099e5; }
+  color: #c6c6c6; }
 
 .mobile-menu-icon .menu-icon-close,
 .mobile-menu-icon .menu-icon-open,
@@ -2637,7 +2637,7 @@ input[type="button"],
 .ht_grid_1_4 {
   float: left;
   margin-right: 1.5%;
-  width: 23.875%; }
+  width: 48.00%; }
   .ht_grid_1_4:nth-of-type(4n+0) {
     margin-right: 0;
     clear: right; }
