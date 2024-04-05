@@ -587,7 +587,7 @@ a {
     line-height: 36px;
     padding: 0 15px 0 10px; }
   .header-search .search-submit {
-    background-color: #0099e5;
+    /* background-color: #0099e5; */
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: none;
@@ -2608,7 +2608,7 @@ input[type="reset"],
 input[type="button"],
 .entry-tags .tag-links a:hover,
 .widget_tag_cloud .tagcloud a:hover {
-  background-color: #0099e5; }
+  /* background-color: #0099e5; */}
 
 .entry-tags .tag-links a:hover:after,
 .widget_tag_cloud .tagcloud a:hover:after {
@@ -2637,7 +2637,7 @@ input[type="button"],
 .ht_grid_1_4 {
   float: left;
   margin-right: 1.5%;
-  width: 48.00%; }
+  width: 48.50%; }
   .ht_grid_1_4:nth-of-type(4n+0) {
     margin-right: 0;
     clear: right; }
